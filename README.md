@@ -35,9 +35,9 @@ You can experiment by implementing and comparing various search strategies:
 - Bidirectional Search
 - Custom AI pathfinding logic
 
+##  TODO:
 Code areas that need to be completed are marked like this:
 `python
-# TODO:
 your code here
 
 ## Controls
