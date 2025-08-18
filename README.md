@@ -1,11 +1,11 @@
-# 🟡 Pacman Game – AI Search Project
+#  Pacman Game – AI Search Project
 
 This project is a simplified implementation of the classic Pacman game using Python, with optional styling via CSS.  
 It serves as an educational framework for experimenting with AI search algorithms, commonly taught in artificial intelligence courses.
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Provide a playable Pacman game as a base environment
 - Allow students and developers to implement and test classic AI search algorithms
@@ -14,16 +14,16 @@ It serves as an educational framework for experimenting with AI search algorithm
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ Playable Pacman game in Python
-- 🧠 Clearly defined sections for adding AI algorithms
-- 🎨 Optional CSS styling to enhance visuals
-- 🧩 Modular structure to support scalability and readability
+-  Playable Pacman game in Python
+-  Clearly defined sections for adding AI algorithms
+-  Optional CSS styling to enhance visuals
+-  Modular structure to support scalability and readability
 
 ---
 
-## 🤖 Suggested AI Algorithms to Implement
+##  Suggested AI Algorithms to Implement
 
 You can experiment by implementing and comparing various search strategies:
 
@@ -36,6 +36,28 @@ You can experiment by implementing and comparing various search strategies:
 - Custom AI pathfinding logic
 
 Code areas that need to be completed are marked like this:
-
 `python
-# TODO: your code here
+# TODO:
+your code here
+
+## Controls
+
+⬆️ Arrow Up – Move Up
+
+⬇️ Arrow Down – Move Down
+
+⬅️ Arrow Left – Move Left
+
+➡️ Arrow Right – Move Right
+
+## Requirements
+
+Python 3.8+
+
+pygame (for rendering)
+
+numpy (optional, for data handling)
+
+Install dependencies with:
+
+pip install -r requirements.txt
