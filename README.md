@@ -27,13 +27,13 @@ It serves as an educational framework for experimenting with AI search algorithm
 
 You can experiment by implementing and comparing various search strategies:
 
-- Depth-First Search (DFS)
-- Breadth-First Search (BFS)
-- Uniform Cost Search (UCS)
-- A-Star Search (A\*)
-- Greedy Best-First Search
-- Bidirectional Search
-- Custom AI pathfinding logic
+- Depth-First Search (DFS).
+- Breadth-First Search (BFS).
+- Uniform Cost Search (UCS).
+- A-Star Search (A\*).
+- Greedy Best-First Search.
+- Bidirectional Search.
+- Custom AI pathfinding logic.
 
 ###  TODO:
 Code areas that need to be completed are marked like this:
@@ -54,9 +54,9 @@ Code areas that need to be completed are marked like this:
 
 • Python 3.8+
 
-• pygame (for rendering).
+• pygame (for rendering)
 
-• numpy (optional, for data handling).
+• numpy (optional, for data handling)
 
 • Install dependencies with:
 ```bash
