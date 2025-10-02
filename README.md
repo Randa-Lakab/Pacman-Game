@@ -5,7 +5,7 @@ It serves as an educational framework for experimenting with AI search algorithm
 
 ---
 
-##  Project Goals
+###  Project Goals
 
 - Provide a playable Pacman game as a base environment
 - Allow students and developers to implement and test classic AI search algorithms
@@ -14,7 +14,7 @@ It serves as an educational framework for experimenting with AI search algorithm
 
 ---
 
-##  Features
+###  Features
 
 -  Playable Pacman game in Python
 -  Clearly defined sections for adding AI algorithms
@@ -23,7 +23,7 @@ It serves as an educational framework for experimenting with AI search algorithm
 
 ---
 
-##  Suggested AI Algorithms to Implement
+###  Suggested AI Algorithms to Implement
 
 You can experiment by implementing and comparing various search strategies:
 
@@ -35,7 +35,7 @@ You can experiment by implementing and comparing various search strategies:
 - Bidirectional Search
 - Custom AI pathfinding logic
 
-##  TODO:
+###  TODO:
 Code areas that need to be completed are marked like this:
 `python
 your code here
@@ -50,7 +50,7 @@ your code here
 
 ➡️ Arrow Right – Move Right
 
-## Requirements
+### Requirements
 
 Python 3.8+
 
