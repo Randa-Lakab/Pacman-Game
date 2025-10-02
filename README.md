@@ -52,12 +52,12 @@ Code areas that need to be completed are marked like this:
 
 ### Requirements
 
-Python 3.8+
+• Python 3.8+
 
-pygame (for rendering)
+• pygame (for rendering)
 
-numpy (optional, for data handling)
+• numpy (optional, for data handling)
 
-Install dependencies with:
+• Install dependencies with:
 
-pip install -r requirements.txt
+• pip install -r requirements.txt
