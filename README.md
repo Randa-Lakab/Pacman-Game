@@ -3,7 +3,7 @@
 This project is a simplified implementation of the classic Pacman game using Python, with optional styling via CSS.  
 It serves as an educational framework for experimenting with AI search algorithms, commonly taught in artificial intelligence courses.
 
----
+
 
 ###  Project Goals
 
@@ -12,7 +12,7 @@ It serves as an educational framework for experimenting with AI search algorithm
 - Encourage learning through hands-on experience in a game setting
 - Promote clean, modular, and documented code for easy extension
 
----
+
 
 ###  Features
 
@@ -21,7 +21,7 @@ It serves as an educational framework for experimenting with AI search algorithm
 -  Optional CSS styling to enhance visuals
 -  Modular structure to support scalability and readability
 
----
+
 
 ###  Suggested AI Algorithms to Implement
 
