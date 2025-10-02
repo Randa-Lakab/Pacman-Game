@@ -1,4 +1,4 @@
-##  Pacman Game – AI Search Project
+I'll##  Pacman Game – AI Search Project
 
 This project is a simplified implementation of the classic Pacman game using Python, with optional styling via CSS.  
 It serves as an educational framework for experimenting with AI search algorithms, commonly taught in artificial intelligence courses.
@@ -54,9 +54,9 @@ Code areas that need to be completed are marked like this:
 
 • Python 3.8+
 
-• pygame (for rendering)
+• pygame (for rendering).
 
-• numpy (optional, for data handling)
+• numpy (optional, for data handling).
 
 • Install dependencies with:
 ```bash
