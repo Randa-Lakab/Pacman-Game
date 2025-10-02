@@ -60,4 +60,4 @@ Code areas that need to be completed are marked like this:
 
 • Install dependencies with:
 
-• pip install -r requirements.txt
+ pip install -r requirements.txt
