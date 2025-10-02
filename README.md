@@ -37,9 +37,9 @@ You can experiment by implementing and comparing various search strategies:
 
 ###  TODO:
 Code areas that need to be completed are marked like this:
-`python
+```bash
 your code here
-
+```
 ## Controls
 
 ⬆️ Arrow Up – Move Up
