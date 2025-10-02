@@ -59,5 +59,6 @@ Code areas that need to be completed are marked like this:
 • numpy (optional, for data handling)
 
 • Install dependencies with:
-
+```bash
  pip install -r requirements.txt
+```
